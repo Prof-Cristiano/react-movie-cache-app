@@ -13,7 +13,7 @@ import { cacheService } from './cacheService';
  * - Buscas: 5 minutos
  */
 
-const API_KEY = 'demo'; // Para demonstração - substitua por uma chave real
+const API_KEY = '0b4e573a2c729fa12dbb42818c6f96c3'; // TMDB API Key
 const BASE_URL = 'https://api.themoviedb.org/3';
 const IMAGE_BASE_URL = 'https://image.tmdb.org/t/p';
 
